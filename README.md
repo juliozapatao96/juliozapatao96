@@ -1,14 +1,18 @@
-# 👋 Hola, soy Julio Zapata
+## 👋 Hola, soy Julio Zapata
 
-**Desarrollador Backend | Ingeniería de datos | Java | Spring Boot | Python | SQL | ETL | APIs REST**
+**Ingeniero Electrónico| Ingeniería de Datos | Desarrollador Backend | Analista de Datos | Java | Spring Boot | Python | SQL | ETL | APIs REST**
 
-Soy Ingeniero Electrónico con una sólida base técnica y una pasión por el desarrollo backend e ingeniería de datos. Realizo proyectos eficientes, utilizando tecnologías como Python, Java y Spring Boot. Tengo experiencia realizando proyectos en la implementación de pipelines ETL, integración de APIs REST y manejo de bases de datos relacionales.
+Soy Ingeniero Electrónico con una sólida base técnica y una gran pasión por el desarrollo backend y la ingeniería de datos. Mi enfoque actual está centrado en el diseño y optimización de pipelines ETL, la integración de APIs REST y el manejo de bases de datos relacionales. Me encanta transformar datos para generar valor, optimizar procesos y automatizar tareas.
+
+Actualmente, aplico tecnologías como Python, Java, Spring Boot y herramientas como Apache Airflow y Docker para desarrollar soluciones robustas y eficientes. Siempre estoy aprendiendo y buscando la mejor manera de resolver problemas complejos con los datos y el backend.
 
 ## 🛠 Tecnologías que manejo
-- **Lenguajes:** Java, Python, SQL
-- **Frameworks:** Spring Boot, Flask, Django
-- **Bases de datos:** PostgreSQL, MySQL
-- **Herramientas:** Docker, Apache Airflow, AWS
+
+- **Lenguajes de Programación:** Java, Python, SQL
+- **Frameworks y Librerías:** Spring Boot, Flask, Django
+- **Bases de Datos:** PostgreSQL, MySQL, Amazon RDS, Amazon DynamoDB
+- **Herramientas y Tecnologías:** Docker, Apache Airflow, AWS (S3, RDS, Lambda), Power BI
+- **Otros:** APIs RESTful, ETL/ELT, Scripting (PowerShell, Bash), Automización de procesos
 
 ## 🚀 Proyectos destacados
 - 🔗 [Weather ETL Pipeline con Airflow y Amazon S3](https://github.com/juliozapatao96/airflow-projects/tree/develop/dags/weather_api_project)
